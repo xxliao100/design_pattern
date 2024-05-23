@@ -1,4 +1,4 @@
-package com.xxliao.principle.dependence_inversion;
+package com.xxliao.principle.specific;
 
 /**
  *

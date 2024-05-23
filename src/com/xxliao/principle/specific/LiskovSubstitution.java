@@ -1,4 +1,4 @@
-package com.xxliao.principle.liskov_substitution;
+package com.xxliao.principle.specific;
 
 /**
  * @author xxliao

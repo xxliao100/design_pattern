@@ -1,4 +1,4 @@
-package com.xxliao.principle.open_closed;
+package com.xxliao.principle.specific;
 
 /**
  * @author xxliao
