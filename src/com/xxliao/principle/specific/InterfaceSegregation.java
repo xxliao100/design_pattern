@@ -1,4 +1,4 @@
-package com.xxliao.principle.interface_segregation;
+package com.xxliao.principle.specific;
 
 /**
  *

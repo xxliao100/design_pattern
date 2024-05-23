@@ -1,7 +1,6 @@
-package com.xxliao.principle.demeter;
+package com.xxliao.principle.specific;
 
 /**
- * @author xxliao
  * @description: 迪米特法则
  *
  * 定义：
@@ -14,7 +13,7 @@ package com.xxliao.principle.demeter;
  * 我们称为一个类中出现的成员变量、方法参数、方法返回值中的类是该类的直接朋友，其余出现在局部变量中的类不是直接朋友。
  *
  * 迪米特最总思想就是：一个类相关的事情，就在该类中解决，而不是放在其它类中。
- *
+ * @author xxliao
  * @date 2024/5/21 23:50
  */
 

@@ -1,4 +1,4 @@
-package com.xxliao.principle.single_responsibility;
+package com.xxliao.principle.specific;
 
 /**
  *

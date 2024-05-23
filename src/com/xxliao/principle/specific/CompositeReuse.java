@@ -1,4 +1,4 @@
-package com.xxliao.principle.composite_reuse;
+package com.xxliao.principle.specific;
 
 /**
  * @author xxliao
