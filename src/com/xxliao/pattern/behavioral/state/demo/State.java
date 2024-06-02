@@ -2,7 +2,7 @@ package com.xxliao.pattern.behavioral.state.demo;
 
 /**
  * @author xxliao
- * @description: 状态顶层接口
+ * @description: 状态顶层接口 - 抽象状态类
  * @date 2024/5/27 15:54
  */
 

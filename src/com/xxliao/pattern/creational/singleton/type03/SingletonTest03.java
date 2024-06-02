@@ -11,7 +11,6 @@ package com.xxliao.pattern.creational.singleton.type03;
 
 public class SingletonTest03 {
 
-
     public static void main(String[] args) {
         Singleton instance = Singleton.getInstance();
         Singleton instance1 = Singleton.getInstance();
@@ -34,8 +33,6 @@ class Singleton {
 
     // 在本类内部创建对象实例
     private static Singleton instance;
-
-
 
     // 对外提供一个公共的静态方法，用于返回实例对象
     public static Singleton getInstance(){

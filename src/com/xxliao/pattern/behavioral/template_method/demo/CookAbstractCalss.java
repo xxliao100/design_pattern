@@ -29,7 +29,7 @@ public abstract class CookAbstractCalss {
 
     // 具体方法
     public void heatOil() {
-        System.out.println("热油");
+        System.out.println("加热");
     }
 
     /**

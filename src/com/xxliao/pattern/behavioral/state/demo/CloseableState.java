@@ -2,7 +2,7 @@ package com.xxliao.pattern.behavioral.state.demo;
 
 /**
  * @author xxliao
- * @description: 电梯关闭状态
+ * @description: 电梯关闭状态 -具体状态类
  * @date 2024/5/27 15:58
  */
 public class CloseableState extends LiftState{

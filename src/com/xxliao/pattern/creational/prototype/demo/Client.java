@@ -2,7 +2,7 @@ package com.xxliao.pattern.creational.prototype.demo;
 
 /**
  * @author xxliao
- * @description: TODO
+ * @description: 设计模式 - 原型模式 -测试客户端
  * @date 2024/5/24 13:27
  */
 public class Client {

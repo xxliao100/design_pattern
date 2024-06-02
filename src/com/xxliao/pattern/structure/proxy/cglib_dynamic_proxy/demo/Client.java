@@ -16,7 +16,5 @@ public class Client {
         System.out.println("===============================================");
         System.out.println("proxyInstance.hashCode="+proxyInstance.hashCode());
         System.out.println(teacherDao == proxyInstance);
-
-
     }
 }

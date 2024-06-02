@@ -6,7 +6,7 @@ package com.xxliao.pattern.behavioral.template_method.demo;
  * @date 2024/5/25 18:12
  */
 
-public class CookBaocai extends CookAbstractCalss{
+public class CookCabbage extends CookAbstractCalss{
 
     @Override
     public void addVegetable() {

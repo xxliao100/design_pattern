@@ -2,15 +2,13 @@ package com.xxliao.pattern.creational.singleton.type05;
 
 /**
  * @author xxliao
- * @description: 单例模式-懒汉式-线程安全-同步方法
+ * @description: 单例模式-懒汉式-线程不安全-单一判断
  *
  * 优缺点：有线程安全问题，实际开发中不使用。
  *
  * @date 2024/5/23 15:59
  */
-
 public class SingletonTest05 {
-
 
     public static void main(String[] args) {
         Singleton instance = Singleton.getInstance();
@@ -34,8 +32,6 @@ class Singleton {
 
     // 在本类内部创建对象实例
     private static Singleton instance;
-
-
 
     // 对外提供一个公共的静态方法，用于返回实例对象
     public static Singleton getInstance(){

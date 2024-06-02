@@ -25,7 +25,7 @@ public class SingletonTest06 {
 }
 
 /**
- * @description  懒汉式-线程不安全
+ * @description  懒汉式-线程安全
  * @author  xxliao
  * @date  2024/5/23 16:00
  */

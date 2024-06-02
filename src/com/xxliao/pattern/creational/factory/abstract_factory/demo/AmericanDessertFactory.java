@@ -2,7 +2,7 @@ package com.xxliao.pattern.creational.factory.abstract_factory.demo;
 
 /**
  * @author xxliao
- * @description: 美式甜品工厂类
+ * @description: 美国烘培饮品工厂
  * @date 2024/5/23 22:07
  */
 public class AmericanDessertFactory implements DessertFactory {

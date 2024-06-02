@@ -26,5 +26,4 @@ public abstract class AbstractAdapter implements TestInterface{
     public void method04() {
 
     }
-
 }

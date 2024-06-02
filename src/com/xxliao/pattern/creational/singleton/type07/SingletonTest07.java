@@ -13,7 +13,6 @@ package com.xxliao.pattern.creational.singleton.type07;
 
 public class SingletonTest07 {
 
-
     public static void main(String[] args) {
         Singleton instance = Singleton.getInstance();
         Singleton instance1 = Singleton.getInstance();

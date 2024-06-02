@@ -2,7 +2,7 @@ package com.xxliao.pattern.structure.decorator.demo;
 
 /**
  * @author xxliao
- * @description: 具体构建类 - 炒饭
+ * @description: 具体构件类 - 炒饭
  * @date 2024/5/25 12:43
  */
 

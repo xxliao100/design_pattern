@@ -2,7 +2,7 @@ package com.xxliao.pattern.behavioral.state.demo;
 
 /**
  * @author xxliao
- * @description: µçÌİÔİÍ£×´Ì¬
+ * @description: µçÌİÔİÍ£×´Ì¬ --- ¾ßÌå×´Ì¬Àà
  * @date 2024/5/27 15:58
  */
 public class StoppableState extends LiftState{

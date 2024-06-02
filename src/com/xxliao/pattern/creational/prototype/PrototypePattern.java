@@ -7,7 +7,7 @@ package com.xxliao.pattern.creational.prototype;
  * 定义： 原型模式是指：用原型实例指定创建对象的种类，并且通过拷贝这些原型，创建新的对象。
  * 工作原理：原型模式创建新的对象，其本质就是克隆，也就是 对象.clone()；
  *
- * 接口：
+ * 结构：
  * Prototype：原型类，神明一个克隆自己的接口，Java语言中 顶级类Object默认有clone()；
  * ConcretePrototype：具体的原型类，实现一个克隆自己的操作。
  * Client：让一个原型对象克隆自己，从而创建一个新的对象。

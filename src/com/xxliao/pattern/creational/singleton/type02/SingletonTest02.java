@@ -15,7 +15,6 @@ package com.xxliao.pattern.creational.singleton.type02;
 
 public class SingletonTest02 {
 
-
     public static void main(String[] args) {
         Singleton instance = Singleton.getInstance();
         Singleton instance1 = Singleton.getInstance();

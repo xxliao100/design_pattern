@@ -13,7 +13,7 @@ public class Client {
             @Override
             public void method01() {
                 super.method01();
-                System.out.println("执行了method01方法...");
+                System.out.println("执行了method01方法..."); // 抽象适配器子类
             }
         };
 

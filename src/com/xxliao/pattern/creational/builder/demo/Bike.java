@@ -5,7 +5,6 @@ package com.xxliao.pattern.creational.builder.demo;
  * @description: ²úÆ·Àà
  * @date 2024/5/24 16:59
  */
-
 public class Bike {
 
     private String frame;

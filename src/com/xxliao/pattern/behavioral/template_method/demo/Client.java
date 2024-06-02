@@ -8,7 +8,7 @@ package com.xxliao.pattern.behavioral.template_method.demo;
 
 public class Client {
     public static void main(String[] args) {
-        CookBaocai cookBaocai = new CookBaocai();
+        CookCabbage cookBaocai = new CookCabbage();
         cookBaocai.cook();
 
         System.out.println("===========================================");

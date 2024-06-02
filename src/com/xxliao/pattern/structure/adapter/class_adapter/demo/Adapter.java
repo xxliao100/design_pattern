@@ -8,7 +8,6 @@ package com.xxliao.pattern.structure.adapter.class_adapter.demo;
  */
 public class Adapter extends Voltage220V implements IVoltage5V{
 
-
     @Override
     public int output5V() {
         int src = output220V();

@@ -8,7 +8,6 @@ package com.xxliao.pattern.creational.factory.factory_method.demo;
 
 public class AmericanCoffee extends Coffee {
 
-
     private String name = "AmericanCoffee";
 
     @Override

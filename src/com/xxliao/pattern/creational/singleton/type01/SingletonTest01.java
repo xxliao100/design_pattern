@@ -15,7 +15,6 @@ package com.xxliao.pattern.creational.singleton.type01;
 
 public class SingletonTest01 {
 
-
     public static void main(String[] args) {
         Singleton instance = Singleton.getInstance();
         Singleton instance1 = Singleton.getInstance();
@@ -23,8 +22,6 @@ public class SingletonTest01 {
         System.out.println("instance.hashCode ="+ instance.hashCode());
         System.out.println("instance1.hashCode ="+ instance1.hashCode());
     }
-
-
 
 }
 

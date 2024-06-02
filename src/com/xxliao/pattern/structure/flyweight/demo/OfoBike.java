@@ -13,6 +13,6 @@ public class OfoBike extends Bike{
 
     @Override
     public void print() {
-        System.out.println("生产成功：OfoBike---"+color+",价格199元");
+        System.out.println("生产成功：OfoBike---"+color+",价格" + price + "元");
     }
 }

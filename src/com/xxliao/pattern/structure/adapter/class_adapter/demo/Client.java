@@ -9,6 +9,5 @@ public class Client {
     public static void main(String[] args) {
         Adapter adapter = new Adapter();
         adapter.output5V();
-
     }
 }

@@ -12,6 +12,5 @@ public class Client {
         Voltage220V voltage220V = new Voltage220V();
         Adapter adapter = new Adapter(voltage220V);
         adapter.output5V();
-
     }
 }

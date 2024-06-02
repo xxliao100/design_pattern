@@ -2,7 +2,7 @@ package com.xxliao.pattern.structure.bridge.demo;
 
 /**
  * @author xxliao
- * @description: TODO
+ * @description: ≤‚ ‘øÕªß∂À
  * @date 2024/5/25 12:13
  */
 public class Client {
